@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f527f38-c8da-4e59-95c8-54e5749c9e78" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/blog/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chatbox.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/chatbox.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1886">
+              <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoomsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/app/Http/Controllers/RoomsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1495">
+              <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+              <folding>
+                <element signature="e#193#430#0#PHP" />
+                <element signature="e#434#524#0#PHP" />
+                <element signature="e#528#677#0#PHP" />
+                <element signature="e#681#905#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="allmessages.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/allmessages.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ac.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/ac.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inbox-body</find>
+      <find>btn mini all</find>
+      <find>inbox-nav inbox-divider</find>
+      <find>inbox-nav</find>
+      <find>top_menu</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blog/resources/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/blog/public/css/chat.css" />
+        <option value="$PROJECT_DIR$/blog/database/migrations/2018_05_12_125731_create_table_rooms.php" />
+        <option value="$PROJECT_DIR$/blog/database/migrations/2018_05_12_125916_create_table_messages.php" />
+        <option value="$PROJECT_DIR$/blog/app/Message.php" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/components/rooms/addrooms.vue" />
+        <option value="$PROJECT_DIR$/blog/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/blog/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/components/rooms/addroom.vue" />
+        <option value="$PROJECT_DIR$/blog/app/Http/Requests/AddRoomsRequest.php" />
+        <option value="$PROJECT_DIR$/blog/app/Http/Requests/AddMessagesRequest.php" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/css/chat.css" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/components/rooms/allrooms.vue" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/components/rooms/myrooms.vue" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/addmessage.vue" />
+        <option value="$PROJECT_DIR$/blog/composer.json" />
+        <option value="$PROJECT_DIR$/blog/app/Http/Controllers/MessagesController.php" />
+        <option value="$PROJECT_DIR$/blog/database/migrations/2018_05_14_192031_create_table_who_is_online.php" />
+        <option value="$PROJECT_DIR$/blog/app/Online.php" />
+        <option value="$PROJECT_DIR$/blog/app/Room.php" />
+        <option value="$PROJECT_DIR$/blog/app/User.php" />
+        <option value="$PROJECT_DIR$/blog/config/app.php" />
+        <option value="$PROJECT_DIR$/blog/app/helper/not.php" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/whoisline.vue" />
+        <option value="$PROJECT_DIR$/blog/app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/components/profile/profile.vue" />
+        <option value="$PROJECT_DIR$/blog/app/streamlab/StreamLab.php" />
+        <option value="$PROJECT_DIR$/blog/resources/views/form.blade.php" />
+        <option value="$PROJECT_DIR$/blog/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/blog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
+        <option value="$PROJECT_DIR$/blog/app/Http/Controllers/Auth/LoginController.php" />
+        <option value="$PROJECT_DIR$/blog/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/blog/resources/views/errors/404.blade.php" />
+        <option value="$PROJECT_DIR$/blog/app/Exceptions/Users.php" />
+        <option value="$PROJECT_DIR$/blog/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/blog/app/VUsers.php" />
+        <option value="$PROJECT_DIR$/blog/app/Http/Controllers/Home.php" />
+        <option value="$PROJECT_DIR$/blog/public/css/login.css" />
+        <option value="$PROJECT_DIR$/blog/resources/views/layouts/app_back.blade.php" />
+        <option value="$PROJECT_DIR$/blog/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/blog/resources/views/auth/register.blade.php" />
+        <option value="$PROJECT_DIR$/blog/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/allmessages.vue" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/ac.vue" />
+        <option value="$PROJECT_DIR$/blog/routes/web.php" />
+        <option value="$PROJECT_DIR$/blog/app/Http/Controllers/RoomsController.php" />
+        <option value="$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/chatbox.vue" />
+        <option value="$PROJECT_DIR$/blog/.env" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/blog/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/blog/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/blog/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/blog/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/blog/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/blog/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/blog/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/blog/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/blog/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/blog/vendor/composer" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/blog/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/blog/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/blog/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/blog/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/blog/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/blog/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/blog/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/blog/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/blog/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/blog/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/blog/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/blog/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/blog/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/blog/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/blog/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/blog/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/blog/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/blog/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/blog/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/blog/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/blog/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/blog/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/blog/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/thanks" />
+      <path value="$PROJECT_DIR$/blog/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/blog/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/blog/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/blog/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/blog/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/blog/vendor/pusher/pusher-http-laravel" />
+      <path value="$PROJECT_DIR$/blog/vendor/pusher/pusher-php-server" />
+      <path value="$PROJECT_DIR$/blog/vendor/graham-campbell/manager" />
+      <path value="$PROJECT_DIR$/blog/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/blog/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/blog/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/blog/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/blog/vendor/barryvdh/laravel-debugbar" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Mail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="chatbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="emails" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="emails" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\chat\blog\public\css" />
+      <recent name="E:\chat\blog\resources\assets\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f527f38-c8da-4e59-95c8-54e5749c9e78" name="Default" comment="" />
+      <created>1526124570168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526124570168</updated>
+      <workItem from="1526124571615" duration="13085000" />
+      <workItem from="1526151185211" duration="14820000" />
+      <workItem from="1526209718535" duration="3677000" />
+      <workItem from="1526213543841" duration="18203000" />
+      <workItem from="1526306275058" duration="3713000" />
+      <workItem from="1526310690806" duration="15551000" />
+      <workItem from="1526387006348" duration="14723000" />
+      <workItem from="1526479068267" duration="10556000" />
+      <workItem from="1526500836450" duration="5134000" />
+      <workItem from="1526696275103" duration="4025000" />
+      <workItem from="1526725438590" duration="4237000" />
+      <workItem from="1526738209531" duration="5313000" />
+      <workItem from="1526755905022" duration="9883000" />
+      <workItem from="1526815619581" duration="10351000" />
+      <workItem from="1526836896485" duration="2562000" />
+      <workItem from="1526856456055" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="136482000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2075" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500625" side_tool="true" weight="0.0" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.499375" weight="0.32962447" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2075" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.499375" weight="0.32962447" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.500625" side_tool="true" weight="0.0" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Http/Requests/AddRoomsRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/rooms/addroom.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Http/Requests/AddMessagesRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/css/chat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="133" column="17" selection-start-line="133" selection-start-column="17" selection-end-line="133" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/rooms/myrooms.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/database/migrations/2018_05_12_125731_create_table_rooms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/database/migrations/2018_05_14_192031_create_table_who_is_online.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Room.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Online.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/rooms/allrooms.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="35" column="10" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/ExampleComponent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="19" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/profile/profile.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/streamlab/StreamLab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5428">
+          <caret line="236" column="59" selection-start-line="236" selection-start-column="59" selection-end-line="236" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/views/form.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/vendor/barryvdh/laravel-debugbar/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="17" selection-start-line="17" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/views/errors/404.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Exceptions/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/VUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Http/Controllers/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" selection-start-line="5" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Mail/UserWelcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/views/emails/users/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/views/layouts/app_back.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/public/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4163">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/whoisline.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="40" column="78" selection-start-line="40" selection-start-column="78" selection-end-line="40" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/views/auth/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="55" column="84" selection-start-line="55" selection-start-column="84" selection-end-line="55" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/helper/not.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Http/Controllers/MessagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/addmessage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/ac.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/Http/Controllers/RoomsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+          <folding>
+            <element signature="e#193#430#0#PHP" />
+            <element signature="e#434#524#0#PHP" />
+            <element signature="e#528#677#0#PHP" />
+            <element signature="e#681#905#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/allmessages.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/resources/assets/js/components/chatbox/chatbox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
